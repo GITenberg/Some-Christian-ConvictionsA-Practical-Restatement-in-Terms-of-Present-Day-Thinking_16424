@@ -1,0 +1,30 @@
+_repo: Some-Christian-ConvictionsA-Practical-Restatement-in-Terms-of-Present-Day-Thinking_16424
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coffin, Henry Sloane
+    birthdate: 1877
+    deathdate: 1954
+    gutenberg_agent_id: '6698'
+    url: http://www.gutenberg.org/2009/agents/6698
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Sloane_Coffin
+description: ''
+gutenberg_issued: '2005-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity -- 20th century'
+- !lcc 'BR'
+- !lcsh 'Theology, Doctrinal -- Popular works'
+title: 'Some Christian Convictions
+
+  A Practical Restatement in Terms of Present-Day Thinking'
+url: http://www.gutenberg.org/ebooks/16424
